@@ -1,0 +1,22 @@
+ID: 002
+
+day
+father
+man
+money
+mother
+head
+man
+moment
+office
+father
+man
+history
+others
+system
+health
+name
+water
+name
+government
+eye

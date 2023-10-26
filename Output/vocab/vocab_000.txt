@@ -1,0 +1,22 @@
+ID: 000
+
+country
+power
+country
+study
+lot
+kind
+year
+moment
+door
+president
+system
+parent
+reason
+state
+history
+law
+point
+father
+water
+number
